@@ -1,4 +1,4 @@
-package shopizer.shopizer_art;
+package shopizer.tools;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package shopizer.shopizer_art;
+package shopizer.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
